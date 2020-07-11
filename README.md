@@ -1,9 +1,7 @@
-haych
-=====
+# haych
 
-An OTP library
+Gonna try and write a decent HTML parser.
 
-Build
------
+## Build
 
     $ rebar3 compile
