@@ -4,5 +4,5 @@
 
 hello_test() ->
   Expected = <<"Hello">>,
-    Actual = haych:hello(),
-    Expected = Actual.
+  Actual = haych:hello(),
+  Expected = Actual.
